@@ -1,0 +1,13 @@
+random_words = ['wander', 'gleam', 'quiet', 'brave', 'happy', 'peace', 'dream', 'hope', 'love', 'joy',
+                'calm', 'kind', 'true', 'free', 'safe', 'warm', 'soft', 'light', 'dark', 'cold', 'hot', 'wet',
+                'dry', 'fast', 'slow', 'loud', 'quiet', 'high', 'low', 'big', 'small', 'long', 'short', 'wide',
+                'narrow', 'deep', 'shallow', 'rough', 'smooth', 'sharp', 'dull', 'bright', 'dim', 'clear', 'cloudy',
+                'sunny', 'rainy', 'windy', 'calm', 'still',
+                "language", "advanced", "information", "strategy", "relaunch", "cellphone", "technology", "organisation",
+                "university", "complex", "difficult", "challenge", "opportunity", "solution", "problem", "innovative",
+                "creative", "imaginative", "intelligent", "knowledgeable", "experienced", "skilled", "talented",
+                "gifted", "brilliant", "exceptional", "outstanding", "remarkable", "extraordinary", "phenomenal",
+                "incredible", "amazing", "wonderful", "fantastic", "terrific", "excellent", "good", "better", "best",
+                "worst", "bad", "worse", "awful", "terrible", "horrible", "dreadful", "atrocious", "appalling",
+                "shocking", "surprising", "unexpected", "unbelievable", "unthinkable", "impossible", "inevitable",
+                "certain", "definite", "probable", "likely", "unlikely", "improbable", "impossible"]
